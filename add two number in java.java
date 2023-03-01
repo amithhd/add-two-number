@@ -7,7 +7,6 @@ public class Main
             int x = 89; 
             int y = 43;
             int sum = x + y;
-            
-        System.out.println("Sum is " + sum);
+            System.out.println("Sum is " + sum);
         }
 }
